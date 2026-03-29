@@ -22,7 +22,7 @@ npm install
 npm run build
 ```
 
-Add to your Claude Code MCP config (`~/.claude.json`):
+Add to your MCP config (e.g. `~/.claude.json` or `.mcp.json` — see [`.mcp.json.example`](.mcp.json.example)):
 
 ```json
 {

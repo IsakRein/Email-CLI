@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mac-mail": {
+      "command": "node",
+      "args": ["<path-to-project>/dist/index.js"]
+    }
+  }
+}

@@ -1,3 +1,14 @@
 node_modules/
 dist/
 *.js.map
+
+# Local config (contains machine-specific paths)
+.mcp.json
+
+# Environment / secrets
+.env
+.env.*
+
+# OS files
+.DS_Store
+Thumbs.db
