@@ -4,7 +4,7 @@
   "description": "MCP server for reading Apple Mail.app data from local SQLite database",
   "main": "dist/index.js",
   "bin": {
-    "mac-mail-mcp": "dist/index.js"
+    "email": "dist/index.js"
   },
   "scripts": {
     "build": "tsc",
